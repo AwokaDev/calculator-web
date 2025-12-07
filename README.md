@@ -11,7 +11,7 @@ Built with pure JavaScript to practice **DOM manipulation** and **CSS Variables*
 - **Responsive Design:** Clean UI that works on different screens.
 
 ## Demo
-Try it live here: [Link to your GitHub Page](https://awokadev.github.io/calculator-app/)
+Try it live [here](https://awokadev.github.io/calculator-app/)
 
 ## Tech Stack
 
